@@ -56,7 +56,7 @@ Pages are the building blocks of Notion. Everything you create — a note, a tas
 1. In the sidebar, scroll down to the **Private** section
 2. Click **+ Add new** at the bottom of the sidebar
 
-![The Notion sidebar showing the Private section and the Add new button](../images/creating-new-page.png)
+![The Notion sidebar showing the Private section and the Add new button](../images/add-a-page.png)
 
 3. A blank page will open in the main editor
 4. Click on the title area and type a name — for example, *My First Project*
